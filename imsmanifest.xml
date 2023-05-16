@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<manifest identifier="swKCUCYuIv2SZqZViekQOJjGNmKgW4wfQE-J9uO0" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>What is Adtech?</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>What is Adtech?</title>
+        <adlcp:datafromlms>eyJjcHYiOiJRRS1KOXVPMCIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/p-iCYC5HkzLil2Z_-NHaasGroteskTXPro-65Md.woff" />
+<file href="scormcontent/lib/fonts/DF-CJYNF2hVJOS1n-NHaasGroteskTXPro-75Bd.woff" />
+<file href="scormcontent/lib/fonts/wxfe2LkB9Hh5hBCg-NHaasGroteskTXPro-55Rg.woff" />
+<file href="scormcontent/lib/fonts/vWO-fdw26JzEGWXU-Gotham-BookItalic.woff" />
+<file href="scormcontent/lib/fonts/lQmjAoSKtVIDWd9i-Gotham-Bold.woff" />
+<file href="scormcontent/lib/fonts/FYIAjvQnwwCvk3eZ-Gotham-Book.woff" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/assets/X-cOFZc5P0puNxQr_small.png" />
+<file href="scormcontent/assets/vuhY_h4rPAK0bdck_small.png" />
+<file href="scormcontent/assets/Gi1_6iFPLMmAd1oZ_small.png" />
+<file href="scormcontent/assets/Z2-56nt9bwmc0tcf__bHV-rcWqKmpKosb.png" />
+<file href="scormcontent/assets/VTvos5GxDoTxGtSe_Np6Xd5tJaFFgnkQa.gif" />
+<file href="scormcontent/assets/ix-UtgtKvJV1x2Ek_7n7kq3NdCeq1coPX.jpg" />
+<file href="scormcontent/assets/jUcy-haGtagrA7gQ_9MhxJj8sFNbWRbwn.gif" />
+<file href="scormcontent/assets/khudJH-h4heEIRh2_mI84o9zGNbPgcVad.gif" />
+<file href="scormcontent/assets/EB9RTeqLOlxDemhA_0BDdmrpl9ycJQZQd.gif" />
+<file href="scormcontent/assets/3e6AOAujHF7GJ5vR_gXw8cfazFm-J_0Mr.gif" />
+<file href="scormcontent/assets/FarreVvB5EzTCIS__uaExUUY1oG_YJmkM.gif" />
+<file href="scormcontent/assets/3tuaZySq27ipFTHd_3XvnjSEBvtK3c1Ld.jpg" />
+<file href="scormcontent/assets/P5u8r_mx_Qw2Ndm4_transcoded-j2WBKsZjwKJNPQvk-Updated%20How%20it%20works-1080p-220713-00001.png" />
+<file href="scormcontent/assets/xbHeF8jeHDHU73v6_transcoded-j2WBKsZjwKJNPQvk-Updated%20How%20it%20works-1080p-220713.mp4" />
+<file href="scormcontent/assets/kAEgiXSwjgMvB-nG__9EaWoWcR6vHxfWm.jpg" />
+<file href="scormcontent/assets/HvdExWOKtTVhAl5N_IglMDltIUS_JfkSQ.jpg" />
+<file href="scormcontent/assets/OG1vKvGza2b-tnD1_23_cities.jpg" />
+<file href="scormcontent/assets/8np9ZjdrG9hCUihY_example-header-image.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
