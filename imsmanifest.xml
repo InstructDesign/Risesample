@@ -1,10 +1,9 @@
 <?xml version="1.0" ?>
-<manifest identifier="swKCUCYuIv2SZqZViekQOJjGNmKgW4wfQE-J9uO0" version="1"
+<manifest identifier="swKCUCYuIv2SZqZViekQOJjGNmKgW4wfQQxOyosx" version="1"
   xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
   xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
-                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
                       http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
@@ -16,7 +15,7 @@
       <title>What is Adtech?</title>
       <item identifier="i1" identifierref="r1" isvisible="true">
         <title>What is Adtech?</title>
-        <adlcp:datafromlms>eyJjcHYiOiJRRS1KOXVPMCIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+        <adlcp:datafromlms>eyJjcHYiOiJRUXhPeW9zeCIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
       </item>
     </organization>
   </organizations>
@@ -61,24 +60,24 @@
 <file href="scormcontent/lib/fonts/Lato-Bold.woff" />
 <file href="scormcontent/lib/fonts/Lato-Regular.woff" />
 <file href="scormcontent/lib/fonts/Lato-Light.woff" />
-<file href="scormcontent/assets/X-cOFZc5P0puNxQr_small.png" />
-<file href="scormcontent/assets/vuhY_h4rPAK0bdck_small.png" />
-<file href="scormcontent/assets/Gi1_6iFPLMmAd1oZ_small.png" />
-<file href="scormcontent/assets/Z2-56nt9bwmc0tcf__bHV-rcWqKmpKosb.png" />
-<file href="scormcontent/assets/VTvos5GxDoTxGtSe_Np6Xd5tJaFFgnkQa.gif" />
-<file href="scormcontent/assets/ix-UtgtKvJV1x2Ek_7n7kq3NdCeq1coPX.jpg" />
-<file href="scormcontent/assets/jUcy-haGtagrA7gQ_9MhxJj8sFNbWRbwn.gif" />
-<file href="scormcontent/assets/khudJH-h4heEIRh2_mI84o9zGNbPgcVad.gif" />
-<file href="scormcontent/assets/EB9RTeqLOlxDemhA_0BDdmrpl9ycJQZQd.gif" />
-<file href="scormcontent/assets/3e6AOAujHF7GJ5vR_gXw8cfazFm-J_0Mr.gif" />
-<file href="scormcontent/assets/FarreVvB5EzTCIS__uaExUUY1oG_YJmkM.gif" />
-<file href="scormcontent/assets/3tuaZySq27ipFTHd_3XvnjSEBvtK3c1Ld.jpg" />
-<file href="scormcontent/assets/P5u8r_mx_Qw2Ndm4_transcoded-j2WBKsZjwKJNPQvk-Updated%20How%20it%20works-1080p-220713-00001.png" />
-<file href="scormcontent/assets/xbHeF8jeHDHU73v6_transcoded-j2WBKsZjwKJNPQvk-Updated%20How%20it%20works-1080p-220713.mp4" />
-<file href="scormcontent/assets/kAEgiXSwjgMvB-nG__9EaWoWcR6vHxfWm.jpg" />
-<file href="scormcontent/assets/HvdExWOKtTVhAl5N_IglMDltIUS_JfkSQ.jpg" />
-<file href="scormcontent/assets/OG1vKvGza2b-tnD1_23_cities.jpg" />
-<file href="scormcontent/assets/8np9ZjdrG9hCUihY_example-header-image.jpg" />
+<file href="scormcontent/assets/pDIaMjSSZ_qQJlyM_small.png" />
+<file href="scormcontent/assets/Kl3Nm1JA4IG279vF_small.png" />
+<file href="scormcontent/assets/uuXPuxHk4X3AsfKI_small.png" />
+<file href="scormcontent/assets/5SNF9sbzZ-AKmrYv__bHV-rcWqKmpKosb.png" />
+<file href="scormcontent/assets/60_CN4feF5I08PG7_Np6Xd5tJaFFgnkQa.gif" />
+<file href="scormcontent/assets/HRLkrClBzmq5vqj6_7n7kq3NdCeq1coPX.jpg" />
+<file href="scormcontent/assets/eVjYyj_wJ6APjI-__9MhxJj8sFNbWRbwn.gif" />
+<file href="scormcontent/assets/jlcQui0N7QAG-qWN_mI84o9zGNbPgcVad.gif" />
+<file href="scormcontent/assets/8dARPOTAPcGKrx9E_0BDdmrpl9ycJQZQd.gif" />
+<file href="scormcontent/assets/9BGvOd2-dqrS8x9V_gXw8cfazFm-J_0Mr.gif" />
+<file href="scormcontent/assets/xnl8cct7Ez-pdIu4_uaExUUY1oG_YJmkM.gif" />
+<file href="scormcontent/assets/McEzacz_gZzhpWzC_3XvnjSEBvtK3c1Ld.jpg" />
+<file href="scormcontent/assets/w0tHUag_QT5kgUL0_transcoded-j2WBKsZjwKJNPQvk-Updated%20How%20it%20works-1080p-220713-00001.png" />
+<file href="scormcontent/assets/Xbj3reQEBEkQBdfK_transcoded-j2WBKsZjwKJNPQvk-Updated%20How%20it%20works-1080p-220713.mp4" />
+<file href="scormcontent/assets/L5Tvx3wwt8vxy6jv__9EaWoWcR6vHxfWm.jpg" />
+<file href="scormcontent/assets/yxGd9-0qvHnSd39h_IglMDltIUS_JfkSQ.jpg" />
+<file href="scormcontent/assets/jFZy9IY0tjVgFugA_23_cities.jpg" />
+<file href="scormcontent/assets/tRih54Lbw2fvyD85_example-header-image.jpg" />
 
     </resource>
   </resources>
